@@ -1,5 +1,7 @@
 Personal Online Portfolio
+
 Overview
+
 This repository has my personal online portfolio, showcasing my coding skills, experiences, and personal projects. It acts as an online resume, offering prospective clients and employers with an outline of the projects I have worked on and my skill level.
 
 Key Features
@@ -10,6 +12,7 @@ Key Features
 - Projects Page: Display of my work, project descriptions, technologies used, and my role in each project.
 
 Technologies Used
+
 - HTML
 - CSS
 
